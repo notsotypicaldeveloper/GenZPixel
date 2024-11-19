@@ -1,10 +1,10 @@
 {
-  "name": "imageprocessingbackend",
+  "name": "GenZPixel Backend",
   "version": "1.0.0",
-  "description": "this is image processing backend",
+  "description": "this is GenZPixel image processing backend",
   "main": "index.js",
   "scripts": {
-    "tsc": "tsc" 
+    "tsc": "tsc"
   },
   "keywords": [
     "image",
@@ -17,5 +17,13 @@
     "contrast"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "sharp": "^0.33.5",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
 }
