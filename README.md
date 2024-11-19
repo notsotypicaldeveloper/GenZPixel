@@ -1,6 +1,4 @@
-# MyAmazingImageProcessingApp
-
-Here, I have created a realtime image processing app.
+#GenZPixel
 
 Backend Tech Stack:
 Node.js, Express, Typescript
