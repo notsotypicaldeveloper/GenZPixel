@@ -1,9 +1,5 @@
 #GenZPixel
 
-Backend Tech Stack:
-Node.js, Express, Typescript
-
-Frontend Tech Stack:
-React, Vite, Typescript
-
-
+Tools & Technologies:
+•	Backend: Node.js, Express, Sharp (Image processing), TypeScript
+•	Frontend: React, Vite, Context API, TypeScript
