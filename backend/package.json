@@ -4,7 +4,7 @@
   "description": "this is GenZPixel image processing backend",
   "main": "index.js",
   "scripts": {
-    "tsc": "tsc"
+    "start": "nodemon"
   },
   "keywords": [
     "image",
@@ -19,11 +19,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
     "express": "^4.21.1",
-    "sharp": "^0.33.5",
-    "typescript": "^5.6.3"
+    "sharp": "^0.33.5"
   },
   "devDependencies": {
-    "@types/express": "^5.0.0"
+    "@types/cookie-parser": "^1.4.7",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.9.1",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
   }
 }
