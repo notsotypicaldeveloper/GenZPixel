@@ -21,7 +21,11 @@ export const Home = () => {
     <>
         <div className='client-img-container'>
             
-            <div>
+            <form action="" method='post' encType='multipart/form-data'>
+            <input type="file" ></input>
+
+            </form>
+            {/* <div>
                 <h2>Input Image to Edit</h2>
                 <input  type="file"  accept='image/jpg, image/jpeg, img/png' onChange={imgHandler}/>
             </div>
@@ -38,7 +42,7 @@ export const Home = () => {
                     <li>You can upload images in either PNG or JPEG format.</li>
                 </ul>
             </div>
-            <br />
+            <br /> */}
 
         </div>
     </>

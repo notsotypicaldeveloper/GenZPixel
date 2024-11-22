@@ -1,10 +1,21 @@
-.client-img-container {
-    margin-right: auto;
-    margin-left: auto;
-    justify-content: center;
-}
 
-.uploaded-img {
+
+
+/* .client-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* position: absolute;
+left: 50%;
+top: 50%;
+height: 200px;
+margin-top: -100px;
+width: 400px;
+margin-left: -200px;  */
+
+/* .uploaded-img {
     width: 500px;
     height: 500px;
-}
+} */
