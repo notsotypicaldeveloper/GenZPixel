@@ -1,4 +1,4 @@
-# GenZPixel
+# GenZPixel App
 
 Tools & Technologies: __
 •	Backend: Node.js, Express, Sharp (Image processing), TypeScript, Nodemon__
